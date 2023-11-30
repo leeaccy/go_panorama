@@ -1,5 +1,5 @@
 # Go Panorama
-This is the official code for the project "Go Panorama" of EECS 504 Foundations of Computer Vision in Fall 2023 at UMich.
+This is the official code for the project "Go Panorama" of EECS 504 Foundations of Computer Vision in Fall 2023 at University of Michigan, Ann Arbor.
 
 ## Preparation
 Install the required dependency.
